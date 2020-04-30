@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Heart1
+  - Heart2
+  - Heart3
+  - dieArea
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2433691931
+    locked: 0
+  - name: Midground
+    uniqueID: 1197649217
+    locked: 0
+  - name: Frontground
+    uniqueID: 3027920381
+    locked: 0
+  - name: f
+    uniqueID: 721781463
+    locked: 0
+  - name: ground
+    uniqueID: 1727798603
+    locked: 0
+  - name: u
+    uniqueID: 2224917169
+    locked: 0
+  - name: u2
+    uniqueID: 1179414253
+    locked: 0
+  - name: Hearts
+    uniqueID: 1967895615
+    locked: 0
